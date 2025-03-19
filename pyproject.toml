@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "mat"
+version = "0.1.0"
+description = ""
+authors = ["goldenglorys <olusolagloryolamide@gmail.com>"]
+readme = "README.md"
+packages = [
+    { include = "main.py" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.43.2"
+sentence-transformers = "^3.4.1"
+pandas = "^2.2.3"
+transformers = "^4.49.0"
+chromadb = "^0.6.3"
+torch = "^2.6.0"
+cryptography = "^44.0.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,237 @@
+[
+    {
+      "product_name": "EcoWood Laminate",
+      "short_description": "Sustainable wood-based laminate flooring",
+      "category": "Flooring",
+      "thickness": "8mm",
+      "materials_used": {
+        "Wood Fibers": "60%",
+        "Resins": "30%",
+        "Aluminum Oxide Coating": "10%"
+      },
+      "co2_emissions": "1.20E01",
+      "recycled_materials": "40%"
+    },
+    {
+      "product_name": "Recycled Vinyl Plank",
+      "short_description": "Luxury vinyl plank with high recycled content",
+      "category": "Flooring",
+      "thickness": "5mm",
+      "materials_used": {
+        "PVC": "50%",
+        "Recycled Plastics": "40%",
+        "Calcium Carbonate": "10%"
+      },
+      "co2_emissions": "1.45E01",
+      "recycled_materials": "70%"
+    },
+    {
+      "product_name": "Natural Cork Flooring",
+      "short_description": "Eco-friendly cork flooring",
+      "category": "Flooring",
+      "thickness": "10mm",
+      "materials_used": {
+        "Cork": "85%",
+        "Binder Resin": "10%",
+        "Protective Wax": "5%"
+      },
+      "co2_emissions": "0.85E01",
+      "recycled_materials": "50%"
+    },
+    {
+      "product_name": "Bamboo Engineered Plank",
+      "short_description": "Sustainable bamboo flooring",
+      "category": "Flooring",
+      "thickness": "12mm",
+      "materials_used": {
+        "Bamboo": "80%",
+        "Adhesives": "15%",
+        "UV Protective Layer": "5%"
+      },
+      "co2_emissions": "1.10E01",
+      "recycled_materials": "30%"
+    },
+    {
+      "product_name": "Stone Polymer Composite",
+      "short_description": "Durable SPC flooring with stone core",
+      "category": "Flooring",
+      "thickness": "6mm",
+      "materials_used": {
+        "Calcium Carbonate": "55%",
+        "PVC": "35%",
+        "Stabilizers": "10%"
+      },
+      "co2_emissions": "1.65E01",
+      "recycled_materials": "20%"
+    },
+    {
+      "product_name": "Hemp Fiber Insulation",
+      "short_description": "Natural hemp-based thermal insulation",
+      "category": "Insulation",
+      "thickness": "50mm",
+      "materials_used": {
+        "Hemp Fibers": "70%",
+        "Binder Resins": "20%",
+        "Fire Retardants": "10%"
+      },
+      "co2_emissions": "0.90E01",
+      "recycled_materials": "60%"
+    },
+    {
+      "product_name": "Recycled PET Insulation",
+      "short_description": "Thermal insulation from recycled plastic bottles",
+      "category": "Insulation",
+      "thickness": "75mm",
+      "materials_used": {
+        "Recycled PET Fibers": "80%",
+        "Binding Agents": "15%",
+        "Flame Retardants": "5%"
+      },
+      "co2_emissions": "1.25E01",
+      "recycled_materials": "90%"
+    },
+    {
+      "product_name": "Mineral Wool Batt",
+      "short_description": "High-performance mineral wool insulation",
+      "category": "Insulation",
+      "thickness": "100mm",
+      "materials_used": {
+        "Rock Wool": "70%",
+        "Glass Fibers": "20%",
+        "Binder Resins": "10%"
+      },
+      "co2_emissions": "1.80E01",
+      "recycled_materials": "30%"
+    },
+    {
+      "product_name": "Cellulose Fiber Insulation",
+      "short_description": "Recycled paper-based insulation",
+      "category": "Insulation",
+      "thickness": "90mm",
+      "materials_used": {
+        "Recycled Paper Fibers": "85%",
+        "Borate Flame Retardant": "10%",
+        "Stabilizers": "5%"
+      },
+      "co2_emissions": "0.75E01",
+      "recycled_materials": "95%"
+    },
+    {
+      "product_name": "BioFoam Rigid Insulation",
+      "short_description": "Plant-based polyurethane foam insulation",
+      "category": "Insulation",
+      "thickness": "80mm",
+      "materials_used": {
+        "Plant-Based Polyols": "60%",
+        "Synthetic Polyols": "30%",
+        "Blowing Agents": "10%"
+      },
+      "co2_emissions": "1.50E01",
+      "recycled_materials": "40%"
+    },
+    {
+      "product_name": "EcoMatte Wall Paint",
+      "short_description": "Low-VOC matte interior paint",
+      "category": "Paints & Coatings",
+      "thickness": null,
+      "materials_used": {
+        "Water": "50%",
+        "Titanium Dioxide": "20%",
+        "Natural Pigments": "15%",
+        "Binders": "15%"
+      },
+      "co2_emissions": "0.50E01",
+      "recycled_materials": "20%"
+    },
+    {
+      "product_name": "Recycled Latex Paint",
+      "short_description": "Recycled-content water-based paint",
+      "category": "Paints & Coatings",
+      "thickness": null,
+      "materials_used": {
+        "Recycled Paint": "70%",
+        "Acrylic Resins": "20%",
+        "Additives": "10%"
+      },
+      "co2_emissions": "0.40E01",
+      "recycled_materials": "80%"
+    },
+    {
+      "product_name": "BioSeal Concrete Coating",
+      "short_description": "Eco-friendly concrete sealer",
+      "category": "Paints & Coatings",
+      "thickness": null,
+      "materials_used": {
+        "Water": "60%",
+        "Silica Compounds": "25%",
+        "Polymer Resins": "15%"
+      },
+      "co2_emissions": "0.65E01",
+      "recycled_materials": "10%"
+    },
+    {
+      "product_name": "Clay-Based Wall Paint",
+      "short_description": "Natural clay-based interior paint",
+      "category": "Paints & Coatings",
+      "thickness": null,
+      "materials_used": {
+        "Clay": "50%",
+        "Mineral Pigments": "30%",
+        "Binders": "20%"
+      },
+      "co2_emissions": "0.35E01",
+      "recycled_materials": "25%"
+    },
+    {
+      "product_name": "NanoTech Self-Cleaning Paint",
+      "short_description": "Advanced self-cleaning exterior paint",
+      "category": "Paints & Coatings",
+      "thickness": null,
+      "materials_used": {
+        "Nano Titanium Dioxide": "40%",
+        "Silicone Resins": "30%",
+        "Acrylic Binder": "30%"
+      },
+      "co2_emissions": "1.10E01",
+      "recycled_materials": "15%"
+    },
+    {
+      "product_name": "Recycled MDF Wall Panel",
+      "short_description": "MDF wall panel made from recycled wood",
+      "category": "Wall Panels",
+      "thickness": "12mm",
+      "materials_used": {
+        "Recycled Wood Fibers": "85%",
+        "Resins": "10%",
+        "Wax": "5%"
+      },
+      "co2_emissions": "1.30E01",
+      "recycled_materials": "80%"
+    },
+    {
+      "product_name": "Bamboo Acoustic Panel",
+      "short_description": "Sound-absorbing bamboo wall panel",
+      "category": "Wall Panels",
+      "thickness": "15mm",
+      "materials_used": {
+        "Bamboo": "75%",
+        "Recycled Fibers": "20%",
+        "Binding Agents": "5%"
+      },
+      "co2_emissions": "0.95E01",
+      "recycled_materials": "50%"
+    },
+    {
+      "product_name": "Hempcrete Wall Board",
+      "short_description": "Breathable and insulating hempcrete panel",
+      "category": "Wall Panels",
+      "thickness": "20mm",
+      "materials_used": {
+        "Hemp Hurds": "60%",
+        "Lime Binder": "30%",
+        "Stabilizers": "10%"
+      },
+      "co2_emissions": "0.85E01",
+      "recycled_materials": "70%"
+    }
+]
